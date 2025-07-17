@@ -1,5 +1,5 @@
 # CarRentalSystem
-This  project is for booking car for rent :
+ project in java is for booking car :
 
 The Car Rental System is designed to automate car rentals by providing a digital platform where users can view available cars, rent cars, and return them upon completion. Developed using Java, this system is intended for car rental businesses seeking efficient management of car inventory, customer service, and daily operations. Users interact with the system via a command-line interface to:
 - View available cars with daily rental rates.
